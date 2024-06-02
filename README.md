@@ -23,6 +23,6 @@
 
 
 
-<p><img align="bottom left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadrehmann&show_icons=true&locale=en&layout=compact" alt="mahadrehmann" /></p>
+<p><img align="bottom left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahadrehmann&show_icons=true&locale=en&layout=compact" alt="mahadrehmann" /></p> 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=mahadrehmann&show_icons=true&locale=en" alt="mahadrehmann" /></p>
