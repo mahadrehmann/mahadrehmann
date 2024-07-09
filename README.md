@@ -1,7 +1,7 @@
 <h1 align="center">Hello! I'm Mahad Rehman</h1>
 <h3 align="center">A 2nd Year CS Undergrad Student</h3>
 
-<img align="right" alt="Cool Gif lol" height="350" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
+<img align="right" alt="Cool Gif lol" height="300" src="https://64.media.tumblr.com/d9ba01e37d6d828041b316d1ab716146/e45d5ed82ed0b527-6f/s640x960/7c3a61067f54e3bd7134b8f86494589cf60134be.gif">
 
 <br>
 
