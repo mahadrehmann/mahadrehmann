@@ -5,9 +5,7 @@
 
 <br>
 
-- 🧱 I’m currently learning **Web Development, Computer Netwoks and Software Design**
-
-- 💬 You can ask me about **C, C++, C#, Java, Assembly, HTML, CSS, JavaScript**
+- 🧱 I’m currently learning **AI, Android and Web Dev**
 
 - 📫 Reach me at **mahadrehman04@gmail.com**
 
@@ -27,4 +25,3 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mahadrehmann&theme=radical&hide_border=false)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=mahadrehmann&icon=0&color=0)](https://visitcount.itsvg.in)
