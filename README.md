@@ -5,7 +5,7 @@
 
 <br>
 
-- 🧱 I’m currently exploring **AI, ML and Android Dev**
+- 📝 I’m currently exploring **Generative AI and Agentic AI**
 
 - 📫 Reach me at **mahadrehman04@gmail.com**
 
